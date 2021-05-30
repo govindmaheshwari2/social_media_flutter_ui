@@ -1,6 +1,9 @@
 # social_media
+Social Media app UI by using #Flutter.
+On our Social app #UI has two pages one for showing all post page which show post with title, description, like, comments and share icon . Then on the story page, it shows the Story just like #Instagram with a bar at top and change story on click.
 
-A new Flutter project.
+- [Youtube](https://youtu.be/karV53BTWpg)
+- [Design inspiration](https://www.instagram.com/p/COIQuZ_gjeW)
 
 ## Getting Started
 
